@@ -146,7 +146,7 @@ Utilized GridSearchCV to search optimal parameter combinations for tree ensemble
 | File Name | Description |
 | :--- | :--- |
 | `Carbon Emission - LMS.csv` |Dataset containing 10,000 individual records across 20 lifestyle and carbon emission features. |
-| Carbon Emission.ipynb` |Jupyter Notebook containing EDA, preprocessing, model training, hyperparameter tuning, and evaluation.|
+| `Carbon Emission.ipynb` |Jupyter Notebook containing EDA, preprocessing, model training, hyperparameter tuning, and evaluation.|
 
 ---
 
